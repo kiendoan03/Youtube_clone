@@ -10,7 +10,7 @@ There're some images of my product
 
 Home
 
-![Picture1](https://github.com/kiendoan03/Youtube_clone/assets/110959854/a252e3f4-70eb-428a-a6b0-da6e534e2354)
+![Picture3](https://github.com/kiendoan03/Youtube_clone/assets/110959854/c2874a64-a99b-4ad0-99b9-fe26d0add0f9)
 
 Playlist
 
